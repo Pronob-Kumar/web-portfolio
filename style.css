@@ -1,5 +1,5 @@
 body{
-    background-image: url("images/background.jpg");
+    background-image: url("Images/background.jpg");
     background-repeat: no-repeat;
     border: 1px solid red;
     font-family: 'Poppins', sans-serif;
@@ -44,7 +44,7 @@ section{
     font-weight: 700;   
 }
 .dream-area{
-    background-image: url(images/background1.png);
+    background-image: url(Images/background1.png);
     background-repeat: no-repeat;
     background-position: right;
     background-size: 20%;
@@ -57,7 +57,7 @@ section{
     background-color: white;
 }
 .experience-area{
-    background-image: url(images/background2.png);
+    background-image: url(Images/background2.png);
     background-repeat: no-repeat;
     background-position: left;
     background-size:20%;
